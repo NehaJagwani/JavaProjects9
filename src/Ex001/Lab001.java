@@ -6,5 +6,6 @@ public class Lab001 {
         System.out.println("checking git push command");
         System.out.println("checking git push origin main command");
         git pull;
+        //checking git pull origin main
     }
 }
